@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/decision.iml" filepath="$PROJECT_DIR$/decision.iml" />
+      <module fileurl="file://C:\Users\Gal\Google Drive\decisions_android\decisions\app\app.iml" filepath="C:\Users\Gal\Google Drive\decisions_android\decisions\app\app.iml" />
+      <module fileurl="file://C:\Users\Gal\Google Drive\decisions_android\decisions\decision.iml" filepath="C:\Users\Gal\Google Drive\decisions_android\decisions\decision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decisions.iml" filepath="$PROJECT_DIR$/decisions.iml" />
     </modules>
   </component>
 </project>
