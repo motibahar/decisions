@@ -11,7 +11,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Created by Eden on 01/12/2017.
+ * Created by Moti.
  */
 
 public class Utils {
@@ -85,14 +85,27 @@ public class Utils {
           "הילד אומר: הלוואי שהידיים שלי היו באותו אורך!(שתי הידיים נהיו קצרות)הפוך!(הידיים התהפכו) מפגר!בלעלעלעלעלע\n";
   final static public String JOKE14 = "שתי פרות בשדה שוחחו ביניהן. הראשונה: \"שמעת על המחלה החדשה שנקראת הפרה המשוגעת?\"\n" +
           "השנייה: \"כן, איזה מסכנות הפרות האלה.. מזל שאנחנו תנינים...\"\n";
-  final static public String JOKE15 = "15";
-  final static public String JOKE16 = "16";
-  final static public String JOKE17 = "17";
-  final static public String JOKE18 = "18";
-  final static public String JOKE19 = "19";
-  final static public String JOKE20 = "20";
-  final static public String JOKE21 = "21";
-  final static public String JOKE22 = "22";
+  final static public String JOKE15 = "קפוארה זו בעצם אומנות לחימה לשומרי נגיעה";
+  final static public String JOKE16 = "אפליקציה שתכיר לך אבא שיביא קרשים למדורה:\n" +
+          "טנדר\n";
+  final static public String JOKE17 = "הפרסומת לבזק:\n" +
+          "עומר אדם – 800,000 ₪\n" +
+          "גידי גוב – כרטיס לעומר אדם\n";
+  final static public String JOKE18 = "תכלס הפרידות הכי קשות הן בסין,\n" +
+          "את רואה את הפנים שלו בכל מקום...\n";
+  final static public String JOKE19 = "שקרים של ילדים שנמצאים עם חברים למטה בסדר עולה:\n" +
+          "בסדר, עולה.\n";
+  final static public String JOKE20 = "בראיון עבודה:\n" +
+          "-איפה אתה רואה את עצמך בעוד 10 שנים?\n" +
+          "-בהופעה של עומר אדם\n";
+  final static public String JOKE21 = "לו\"ז של מקרר:\n" +
+          "8:00-0:00 – מקרר\n" +
+          "0:00-4:00 – טרקטור \n";
+  final static public String JOKE22 = "יום של ערס:\n" +
+          "\n" +
+          "קם\n" +
+          "אוכל\n" +
+          "משפר את המערכת באוטו\n";
 
 
 
